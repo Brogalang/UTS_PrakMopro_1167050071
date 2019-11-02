@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UTS-Galang</string>
+    <string name="todo">TODO</string>
+    <string name="titlememe">Title Meme</string>
+    <string name="submeme">Submeme</string>
+</resources>
